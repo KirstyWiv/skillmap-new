@@ -1,5 +1,5 @@
 # sample
-* name: Game Maker Guide
+* name: Testy test 
 * description: Level up your game making skills by completing the tutorials in this guide.
 
 ## interface
